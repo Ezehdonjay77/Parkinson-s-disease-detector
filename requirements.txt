@@ -1,0 +1,8 @@
+Requirements · TXT
+
+streamlit
+scikit-learn
+pandas
+numpy
+requests
+ 
