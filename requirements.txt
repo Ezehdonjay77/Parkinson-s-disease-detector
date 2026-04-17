@@ -1,5 +1,3 @@
-Requirements · TXT
-
 streamlit
 scikit-learn
 pandas
